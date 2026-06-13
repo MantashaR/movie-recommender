@@ -1,0 +1,10 @@
+# data & trained artifacts are regenerated automatically on first run
+data/
+models/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
